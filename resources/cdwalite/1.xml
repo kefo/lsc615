@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+    
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300075940">altarpiece</cdwalite:objectWorkType>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300178235">polyptych</cdwalite:objectWorkType>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300033656">panel paintings (painting by form)</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="preferred" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">The Ghent Altarpiece</cdwalite:title>
+                </cdwalite:titleSet>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="local" cdwalite:lang="dut" cdwalite:langtermsource="ISO 639-2">Het Lam Gods</cdwalite:title>
+                    <cdwalite:sourceTitle>Sint-Baafskathedraal - Gent . http://users.skynet.be/sintbaafskathedraal-gent/NL_lamb.html (accessed 2012-04-13)</cdwalite:sourceTitle>
+                </cdwalite:titleSet>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:type="local" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2b">Mystic Lamb</cdwalite:title>
+                    <cdwalite:sourceTitle>Saint-Bavo's Cathedral - Ghent. http://users.skynet.be/sintbaafskathedraal-gent/EN_lamb.html (accessed 2012-04-13)</cdwalite:sourceTitle>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator> Hubert van Eyck (Netherlandish, ca. 1326-1426) and Jan van Eyck (Netherlandish, 1390-1441)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="ULAN" cdwalite:termsourceID="500013023">Eyck, Hubert van</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>Netherlandish</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1326" cdwalite:deathDate="1426">ca. 1326-1426</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                    <cdwalite:extentCreator>began the project, died before completion</cdwalite:extentCreator>
+                </cdwalite:indexingCreatorSet>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="ULAN" cdwalite:termsourceID="500116209">Eyck, Jan van</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>Netherlandish</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1390" cdwalite:deathDate="1441" cdwalite:termsource="AAT">1390-1441</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                    <cdwalite:extentCreator>completed work upon Hubert van Eyck's death in 1426</cdwalite:extentCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>24 framed panels assembled; 12 panel closed view, two hinged doors, 12 panels opened view; overall (open) : 340 x 440 cm (134 x 174 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:unit="panels" cdwalite:value="24" cdwalite:type="count"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                    <cdwalite:extentMeasurements>painted framed panels</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:unit="panels" cdwalite:value="12" cdwalite:type="count"/>
+                    <cdwalite:extentMeasurements>closed view</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:unit="doors" cdwalite:value="2" cdwalite:type="count"/>
+                    <cdwalite:extentMeasurements>hinged doors</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:unit="panels" cdwalite:value="12" cdwalite:type="count"/>
+                    <cdwalite:extentMeasurements>opened view</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="340" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="440" cdwalite:unit="cm" cdwalite:type="width"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                    <cdwalite:qualifierMeasurements>opened view</cdwalite:qualifierMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="134" cdwalite:unit="in" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="174" cdwalite:unit="in" cdwalite:type="width"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                    <cdwalite:qualifierMeasurements>opened view</cdwalite:qualifierMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>paint consists of mineral pigments in a cement of drying oil, painted on oak panels; grisaille technique used in two panels (closed)</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="medium">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">drying oil</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">mineral pigment</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="support">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">oak (wood)</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>panels</cdwalite:extentMaterialsTech>
+                    <cdwalite:sourceMaterialsTech>http://users.skynet.be/sintbaafskathedraal-gent/EN_lamb.html</cdwalite:sourceMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="technique">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">grisaille</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>applied on two of the closed panels, bottom center</cdwalite:extentMaterialsTech>
+                    <cdwalite:sourceMaterialsTech>http://www.metmuseum.org/toah/hd/ghnt/hd_ghnt.htm</cdwalite:sourceMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="300252246">Northern Renaissance</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="300020929">Netherlandish</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>ca. 1427-1432</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:dateQualifier>execution</cdwalite:dateQualifier>
+                    <cdwalite:earliestDate>1427</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1432</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentLocation" cdwalite:termsource="LCCN" cdwalite:termsourceID="http://lccn.loc.gov/n80113905">Sint-Baafskathedraal te Gent</cdwalite:locationName>
+                </cdwalite:locationSet>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentLocation">Saint Bavo Cathedral (Ghent, Belgium)</cdwalite:locationName>
+                </cdwalite:locationSet>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="geographicLocation" cdwalite:termsource="AAT" cdwalite:termsourceID="7007887">Ghent (inhabited place)</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="LCSH" cdwalite:termsourceID="http://lccn.loc.gov/sh86003237">Panel painting 15th century</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="LCSH" cdwalite:termsourceID="http://lccn.loc.gov/sh2005005217">Panel painting, Netherlandish</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:subjectTerm cdwalite:type="iconography" cdwalite:termsource="AAT" cdwalite:termsourceID="300073711">Christianity</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300178235">polyptychs</cdwalite:classification>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300075940">altarpieces</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>The Ghent Altarpiece by Hubert and Jan van Eyck in Saint Bavo Cathedral in Ghent, Belgium, is the single most important work of Early Netherlandish painting in existence, and is generally accepted to be among the most important surviving artworks in the world. The enormous cultural and art-historical impact of the polyptych, which was completed in 1432, is unparalleled in Northern European art of the fifteenth and sixteenth centuries. The Ghent Altarpiece is the ultimate example of the late-medieval Ars Nova in painting, when significant advances were made in illusionism in order to depict highly complex iconographical programs. The huge scale of the work, which measures 340 x 440 centimeters when opened, makes the polyptych one of the largest surviving fifteenth-century altarpieces in Northern Europe.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>Anne van Grevenstein and Ron Spronk. Lasting Suport: An interdiscplinary research project to assess the structural condition of the Ghent Altarpiece; Final Project Report, 2011. </cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+            <cdwalite:relatedWorksWrap>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>http://closertovaneyck.kikirpa.be/#viewer/id1=69</cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>larger context for</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>John the Baptist (grisaille) (bottom center-right panel of closed altarpiece)</cdwalite:labelRelatedWork>
+                    <cdwalite:locRelatedWork>Saint Bavo Cathedral (Ghent, Belgium)</cdwalite:locRelatedWork>
+                </cdwalite:relatedWorkSet>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>http://closertovaneyck.kikirpa.be/#viewer/id1=49</cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>larger context for</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>Archangel Annunciate (left center panel of closed altarpiece)</cdwalite:labelRelatedWork>
+                    <cdwalite:locRelatedWork>Saint Bavo Cathedral (Ghent, Belgium)</cdwalite:locRelatedWork>
+                </cdwalite:relatedWorkSet>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>http://closertovaneyck.kikirpa.be/#viewer/id1=37</cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>larger context for</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>Adoration of the Lamb (bottom central panel of open altarpiece)</cdwalite:labelRelatedWork>
+                    <cdwalite:locRelatedWork>Saint Bavo Cathedral (Ghent, Belgium)</cdwalite:locRelatedWork>
+                </cdwalite:relatedWorkSet>
+            </cdwalite:relatedWorksWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID cdwalite:type="URL">http://www.bridgemanart.com/asset/472325/</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>Bridgeman Art Library International (New York, NY)</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew01</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-19</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://closertovaneyck.kikirpa.be/</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:resourceViewDescription>The website "Closer to Van Eyck: Rediscovering the Ghent Altarpiece presents the results from Lasting Support, An Interdisciplinary Research Project to Assess the Structural Condition of the Ghent Altarpiece. The projects findings are made available through the website accompanied by thousands of high-resolution images, both on and underneath the paintings'surfaces, utilizing macrophotography, infrared macrophotography, infrared reflectography and X-radiography.</cdwalite:resourceViewDescription>
+                    <cdwalite:resourceViewType>multiple front views, close-ups and comparisons with panels open and closed</cdwalite:resourceViewType>
+                </cdwalite:resourceSet>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://www.aiwaz.net/hires.htm?image=uploads/gallery/ghent-altarpiece-1723.jpg?length=41</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:resourceViewType>overall, panels open</cdwalite:resourceViewType>
+                </cdwalite:resourceSet>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://www.aiwaz.net/hires.htm?image=uploads/gallery/ghent-altarpiece-1724.jpg?length=41</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:resourceViewType>overall, panels closed</cdwalite:resourceViewType>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    
+    

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+		<cdwalite:descriptiveMetadata>
+			<cdwalite:objectWorkTypeWrap>
+				<cdwalite:objectWorkType>Drawings</cdwalite:objectWorkType>
+			</cdwalite:objectWorkTypeWrap>
+			<cdwalite:titleWrap>
+				<cdwalite:titleSet>
+					<cdwalite:title cdwalite:pref="Preferred">Head of a Young Girl</cdwalite:title>
+				</cdwalite:titleSet>
+				<cdwalite:titleSet>
+					<cdwalite:title cdwalite:pref="Previous">Delightful Surprise</cdwalite:title>
+				</cdwalite:titleSet>
+			</cdwalite:titleWrap>
+			<cdwalite:displayCreator>Adélaïde Labille-Guiard (French, 1749 - 1803)</cdwalite:displayCreator>
+			<cdwalite:indexingCreatorWrap>
+				<cdwalite:indexingCreatorSet>
+					<cdwalite:nameCreatorSet>
+						<cdwalite:nameCreator>Adélaïde Labille-Guiard</cdwalite:nameCreator>
+					</cdwalite:nameCreatorSet>
+					<cdwalite:nationalityCreator>French</cdwalite:nationalityCreator>
+					<cdwalite:roleCreator>Artist</cdwalite:roleCreator>
+				</cdwalite:indexingCreatorSet>
+			</cdwalite:indexingCreatorWrap>
+			<cdwalite:displayMeasurements>Unframed: 54.6 x 44.5 cm (21 1/2 x 17 1/2 in.) Frame
+				(Original): 69.9 x 60 x 7.6 x 3.8 cm (27 1/2 x 23 5/8 x 3 x 1 1/2 in.)</cdwalite:displayMeasurements>
+			<cdwalite:displayMaterialsTech>Pastel on paper</cdwalite:displayMaterialsTech>
+			<cdwalite:styleWrap>
+				<cdwalite:style>Rococo</cdwalite:style>
+			</cdwalite:styleWrap>
+			<cdwalite:cultureWrap>
+				<cdwalite:culture>French</cdwalite:culture>
+			</cdwalite:cultureWrap>
+			<cdwalite:displayCreationDate>1779</cdwalite:displayCreationDate>
+			<cdwalite:indexingDatesWrap>
+				<cdwalite:indexingDatesSet>
+					<cdwalite:earliestDate>1779</cdwalite:earliestDate>
+					<cdwalite:latestDate>1779</cdwalite:latestDate>
+				</cdwalite:indexingDatesSet>
+			</cdwalite:indexingDatesWrap>
+			<cdwalite:locationWrap>
+				<cdwalite:locationSet>
+					<cdwalite:locationName cdwalite:type="currentOwner">The J. Paul Getty Museum at
+						the Getty Center</cdwalite:locationName>
+					<cdwalite:workID cdwalite:type="accession">96.PC.327</cdwalite:workID>
+				</cdwalite:locationSet>
+			</cdwalite:locationWrap>
+			<cdwalite:indexingSubjectWrap>
+				<cdwalite:indexingSubjectSet>
+					<cdwalite:subjectTerm>Eroticism</cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+				<cdwalite:indexingSubjectSet>
+					<cdwalite:subjectTerm>Nudes</cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+			</cdwalite:indexingSubjectWrap>
+		</cdwalite:descriptiveMetadata>
+		<cdwalite:administrativeMetadata>
+			<cdwalite:rightsWork>; For permission to reproduce images for uses not covered by the
+				Terms and Conditions, please contact Rights and Reproductions, Registrar's Office,
+				The J.Paul Getty Museum http://www.getty.edu/legal/image_request.html</cdwalite:rightsWork>
+			<cdwalite:recordWrap>
+				<cdwalite:recordID cdwalite:type="originalDB">111042</cdwalite:recordID>
+				<cdwalite:recordType/>
+				<cdwalite:recordInfoWrap>
+					<cdwalite:recordInfoID cdwalite:type="oaiIdentifier"
+						>oai1.getty.edu.ggmp.gm_111042</cdwalite:recordInfoID>
+					<cdwalite:recordInfoLink>http://www.getty.edu/art/gettyguide/artObjectDetails?artobj=111042</cdwalite:recordInfoLink>
+				</cdwalite:recordInfoWrap>
+			</cdwalite:recordWrap>
+			<cdwalite:resourceWrap>
+				<cdwalite:resourceSet>
+					<cdwalite:linkResource cdwalite:type="highRes"
+						>http://archives.getty.edu:8081/ggmp/gm_11104201.jpg</cdwalite:linkResource>
+					<cdwalite:resourceID>ggmp.highRes.111042</cdwalite:resourceID>
+				</cdwalite:resourceSet>
+			</cdwalite:resourceWrap>
+		</cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>

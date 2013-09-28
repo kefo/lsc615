@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300047090">sculpture (visual work)</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title>Enduring Afghanistan</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Harriet Bart (American, 1941-)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="ULAN" cdwalite:termsourceID="ulan500349875">Bart, Harriet</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1941">1941-</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>female</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="aat300025181">sculptor</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>274.3 x 182.9 cm (108 x 72 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="274.3" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="182.9" cdwalite:unit="cm" cdwalite:type="width"/>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>dog tags, ball chain, chain link, vintage ledger, fine press ledger pages, ink, Koran stand, steel table</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="material">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">dog tags</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">chain shot</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">chain link fences</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>wall piece</cdwalite:extentMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="material">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">ledger (account book)</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">book paper</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">ink</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">bookstand</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">table (support furniture)</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>sculpture (visual work)</cdwalite:extentMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="aat300264737">Contemporary (style of art)</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="aat300107956">American</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>2008</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>2008</cdwalite:earliestDate>
+                    <cdwalite:latestDate>2008</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:termsource="lcnaf" cdwalite:locID="lc2011105725" cdwalite:type="currentLocation">College of Visual Arts (Saint Paul, Minnesota)</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet cdwalite:type="interpretation">
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300055314">wars</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300025450">military personnel</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="geographicName" cdwalite:termsource="TGN" cdwalite:termsourceID="tgn7016612">Afghanistan</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300027403">death records</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>Enduring Afghanistan commemorates the names of American soldiers who died in Afghanistan. Military I.D. tags, affixed to a piece of chain link fence suspended from the ceiling, present a topography of death: the tags are arranged in a metallic map of Afghanistan, their depth corresponding to the numbers and locations of soldiers’ deaths. The fence speaks of separation but is also reminiscent of the fence of Ground Zero, which was effectively re-purposed for memorializing practices. In front of it sits a ledger, displayed on a carved wooden Koran stand. The ledger presents a list of names of fallen soldiers, which takes the place of the Koran, suggesting that these names have become a new text to be revered.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>Bart, Harriet.</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID>http://www.cva.edu/gallery/perspectives_11art/</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>College of Visual Arts (Saint Paul, Minnesota)</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew06</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-15</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="url">http://www.mnartists.org/work.do?rid=281225</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300215302">digital images</cdwalite:resourceType>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    

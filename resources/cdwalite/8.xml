@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300236285">chromogenic color print</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title>Blue Plate Special</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>John Waters (American, 1946-)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="lcnaf" cdwalite:termsourceID="lc81036831">Waters, John</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:termsource="lcnaf" cdwalite:birthDate="1946">1946</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="aat300025687">photographer</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>25.4 x 35.6 cm (10 x 14 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="25.4" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="35.6" cdwalite:unit="cm" cdwalite:type="width"/>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>chromogenic color print</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="technique">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">photography</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:displayStateEditionWrap>
+                <cdwalite:displayEdition>1/100</cdwalite:displayEdition>
+            </cdwalite:displayStateEditionWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="aat300264737">Contemporary (style of art)</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="aat300107956">American</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>2011</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>2011</cdwalite:earliestDate>
+                    <cdwalite:latestDate>2011</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentRepository" cdwalite:termsource="lcnaf" cdwalite:termsourceID="lc80020337">Walker Art Center (Minneapolis, Minnesota)</cdwalite:locationName>
+                    <cdwalite:workID cdwalite:type="accession">2011.89.1-.2</cdwalite:workID>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet cdwalite:type="description">
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300254496">food</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300194441">garbage</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="aat300046300">photographs</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>An image of a plate of waste food; sprouted potatoes, carrot tops, bones and sinew, radish roots, etc. </cdwalite:descriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+            <cdwalite:inscriptionsWrap>
+                <cdwalite:inscriptions>.1 in black ink on reverese "John Waters" .2 BL "John Waters"</cdwalite:inscriptions>
+            </cdwalite:inscriptionsWrap>
+            <cdwalite:relatedWorksWrap>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>http://www.walkerart.org/calendar/2011/absentee-landlord</cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>part of</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>"Absentee Landlord," exhibition curated by John Waters, 2011.</cdwalite:labelRelatedWork>
+                    <cdwalite:locRelatedWork cdwalite:locID="MnMW" cdwalite:locIDtype="marcCodeListforOrganizations">Walker Art Center (Minneapolis, Minnesota, USA)</cdwalite:locRelatedWork>
+                </cdwalite:relatedWorkSet>
+            </cdwalite:relatedWorksWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:rightsWork/>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID>http://collections.walkerart.org/item/object/12837</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>Walker Art Center (Minneapolis, Minnesota)</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew09</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-15</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://collections.walkerart.org/item/object/12837</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300215302">digital images</cdwalite:resourceType>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    

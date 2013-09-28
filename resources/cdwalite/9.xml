@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300047112">public sculpture</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title>Spoonbridge and Cherry</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Claes Oldenburg (American, 1929-) and Coosje van Bruggen (Dutch, 1942-2009)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="ULAN" cdwalite:termsourceID="ulan500029735">Oldenburg, Claes</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:termsource="ULAN" cdwalite:birthDate="1929">1929</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="aat300025181">sculptor</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName" cdwalite:termsource="ULAN" cdwalite:termsourceID="ulan500032593">Bruggen, Coosje van</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>Dutch</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:termsource="ULAN" cdwalite:birthDate="1942" cdwalite:deathDate="2009">1942-2009</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>female</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="aat300025181">sculptor</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>overall: 899.16 x 1,569.72 x 411.48 cm (354 x 618 x 162 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="899.16" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="1569.72" cdwalite:unit="cm" cdwalite:type="width"/>
+                    <cdwalite:measurementsSet cdwalite:value="411.48" cdwalite:unit="cm" cdwalite:type="depth"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>aluminum, stainless steel, paint</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="material">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">aluminum (metal)</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">stainless steel</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">paint (coating)</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="aat300264737">Contemporary (style of art)</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="aat300107956">American</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>1985-1988</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>1985</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1988</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentRepository" cdwalite:termsource="lcnaf" cdwalite:termsourceID="lc80020337">Walker Art Center (Minneapolis, Minnesota)</cdwalite:locationName>
+                    <cdwalite:workID cdwalite:type="accession">1988.385</cdwalite:workID>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet cdwalite:type="description">
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300006179">fountain</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="lcsh" cdwalite:termsourceID="lc85023094">cherry</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="aat300043149">spoon</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>A highlight of the Minneapolis Sculpture Garden is the monumental fountain-sculpture Spoonbridge and Cherry by Claes Oldenburg and Coosje van Bruggen. While Oldenburg and van Bruggen, his wife and collaborator, have produced a number of large-scale sculptures of everyday objects, such as a flashlight in Las Vegas and a firehouse in Freiburg, Switzerland, Spoonbridge and Cherry is their first fountain sculpture. The giant spoon stretches 52 feet across a small pond shaped like a linden tree seed. A fine stream of water, just enough to make the aluminum cherry gleam, flows over the cherry from the base of the stem. A second stream of water sprays from the top of the stem over the cherry, down into the spoon and the pool below. In winter, snow and ice accumulate on the cherry and the bowl of the spoon, changing the sculpture's character with the seasons. The colossal spoon and cherry required unusual facilities for their construction, and two New England ship-building firms were contracted to build the huge aluminum and steel forms.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>The Minneapolis Sculpture Garden: A Garden for All Seasons, Walker Art Center, Minneapolis, 1998</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+            <cdwalite:inscriptionsWrap>
+                <cdwalite:inscriptions>signed by both artists on a stainless steel plaque located on the end of the handle</cdwalite:inscriptions>
+            </cdwalite:inscriptionsWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID>http://collections.walkerart.org/item/object/713</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>Walker Art Center (Minneapolis, Minnesota)</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew10</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-15</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://collections.walkerart.org/item/object/713</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="aat300215302">digital images</cdwalite:resourceType>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+ 

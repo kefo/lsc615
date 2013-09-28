@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300041365">etching (prints)</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="preferred" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">The Bridge</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Brodsky &amp; Utkin: Alexander Brodsky (Russian, b. 1955), Ilya Utkin (Russian, b. 1955) </cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:termsource="ULAN" cdwalite:termsourceID="500222251" cdwalite:type="personalName">Brodskij, Aleksandr Savvič</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>Soviet</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1955" cdwalite:termsource="AAT">born 1955</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300024987">architects</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:termsource="ULAN" cdwalite:termsourceID="500222255" cdwalite:type="personalName">Utkin, Ilya</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator/>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1955">born 1955</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300024987">architects</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>109.2 x 80.8 cm (43 x 31.8 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="109.2" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="80.8" cdwalite:unit="cm" cdwalite:type="width"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="43" cdwalite:unit="in" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="31.8" cdwalite:unit="in" cdwalite:type="width"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>etching</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">etching (printing process)</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="300072496">Russian</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>1987-1990</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>1987</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1990</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName>location unknown</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:extentSubject>paper architects</cdwalite:extentSubject>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300072496">visionary architecture</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300067141">fantastic architecture</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300072496">visionary architecture&gt;</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>A Bridge above the precipice in the high mountain. A chapel with glass walls, glass roof and glass floor, standing over the fathomless endless crack, between two abysses - upper and lower.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>http://agpopovska.tumblr.com/post/2794797901/a-bridge-above-the-precipice-in-the-high</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>Alexander Brodsky and Ilya Utkin are the best known of a loosely organized group of Soviet artists known as "Paper Architects," who designed much but built little in the early days of Glasnost, in the late 1980s. Many of their elaborate etchings, in which they depicted outlandish, often impossible, structures and cityscapes of allegorical content, were collected in our 1990 book Brodsky &amp; Utkin.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>http://www.papress.com/html/book.details.page.tpl?isbn=9781568983998</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID cdwalite:type="URL">http://www.artnet.com/artwork/41390/373/brodsky--utkin-alexander-brodsky--ilya-utkin-the-bridge-from-projects-portfolio.html</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew03</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-19</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">http://thenonist.com/images/uploads/pprarch1.jpg</cdwalite:linkResource>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    

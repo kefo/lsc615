@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300047112">
+                                    public sculpture</cdwalite:objectWorkType>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300185245">
+                                    environments (sculpture)</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="preferred" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">Tilted Arc</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Richard Serra (American, 1938-)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:termsource="ULAN" cdwalite:termsourceID="500029327" cdwalite:type="personalName">Serra, Richard</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1938" cdwalite:termsource="AAT">born 1938</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:termsource="LCCN" cdwalite:termsourceID="no2006089743" cdwalite:type="corporateName">United States. General Services Administration. Art In Architecture Program</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300150080">funding agencies</cdwalite:roleCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025982">art commissions</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>3.7 m x 36.6 m x 6.4 cm (12 feet x 120 feet x 2.5 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="3.7" cdwalite:unit="m" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="36.6" cdwalite:unit="m" cdwalite:type="width"/>
+                    <cdwalite:measurementsSet cdwalite:value="6.4" cdwalite:unit="cm" cdwalite:type="depth"/>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="12" cdwalite:unit="ft" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="120" cdwalite:unit="ft" cdwalite:type="width"/>
+                    <cdwalite:measurementsSet cdwalite:value="2.5" cdwalite:unit="in" cdwalite:type="depth"/>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>Cor-Ten steel™</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">Cor-Ten steel (TM)</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="300065758">Minimal</cdwalite:style>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="300112731">Postminimal</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsourceID="AAT" cdwalite:termsource="300107956">American</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>Installed July 16, 1981, destroyed and removed March 1989</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:dateQualifier>execution</cdwalite:dateQualifier>
+                    <cdwalite:earliestDate>1981</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1981-07-16</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:dateQualifier>destruction</cdwalite:dateQualifier>
+                    <cdwalite:earliestDate>1989-03</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1989-03</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentLocation">destroyed</cdwalite:locationName>
+                </cdwalite:locationSet>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="creationLocation">Jacob K. Javits Federal Building Plaza (New York City, NY, USA)</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:subjectTerm cdwalite:type="description" cdwalite:termsource="AAT" cdwalite:termsourceID="300056501">public art</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="LCSH" cdwalite:termsourceID="http://lccn.loc.gov/n98093605">Serra, Richard, 1939- Tilted arc</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="geographicLocation" cdwalite:termsource="AAT" cdwalite:termsourceID="7022657">Manhattan (borough)</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="300065758">Minimal</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="300112731">Postminimal</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300047112">
+                                    public sculpture</cdwalite:classification>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300185245">
+                                    environments (sculpture)</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>In 1981, artist Richard Serra installs his sculpture Tilted Arc, in Federal Plaza in New York City. It has been commissioned by the Arts-in-Architecture program of the U.S. General Services Administration, which earmarks 0.5 percent of a federal building's cost for artwork. Tilted Arc is a curving wall of raw steel, 120 feet long and 12 feet high, that carves the space of the Federal Plaza in half. Those working in surrounding buildings must circumvent its enormous bulk as they go through the plaza. According to Serra, this is the point, "The viewer becomes aware of himself and of his movement through the plaza. As he moves, the sculpture changes. Contraction and expansion of the sculpture result from the viewer's movement. Step by step the perception not only of the sculpture but of the entire environment changes."                    
+                                        The sculpture generates controversy as soon as it is erected, and Judge Edward Re begins a letter-writing campaign to have the $175,000 work removed. Four years later, William Diamond, regional administrator for the GSA, decides to hold a public hearing to determine whether Tilted Arc should be relocated. Estimates for the cost of dismantling the work are $35,000, with an additional $50,000 estimated to erect it in another location. Richard Serra testifies that the sculpture is site-specific, and that to remove it from its site is to destroy it. If the sculpture is relocated, he will remove his name from it.                    
+                                        The public hearing is held in March 1985. During the hearing, 122 people testify in favor of retaining the sculpture, and 58 testify in favor of removing it. The art establishment -- artists, museum curators, and art critics -- testify that Tilted Arc is a great work of art. Those against the sculpture, for the most part people who work at Federal Plaza, say that the sculpture interferes with public use of the plaza. They also accuse it of attracting graffiti, rats, and terrorists who might use it as a blasting wall for bombs. The jury of five, chaired by William Diamond, vote 4-1 in favor of removing the sculpture.                    
+                                        Serra's appeal of the ruling fails. On March 15, 1989, during the night, federal workers cut Tilted Arc into three pieces, remove it from Federal Plaza, and cart it off to a scrap-metal yard.                    
+                                        The Tilted Arc, decision prompts general questions about public art, an increasingly controversial subject through the late 1980s and early 1990s in the U.S. and abroad. The role of government funding, an artist's rights to his or her work, the role of the public in determining the value of a work of art, and whether public art should be judged by its popularity are all heatedly debated. Serra's career continues to flourish, despite the controversy. "I don't think it is the function of art to be pleasing," he comments at the time. "Art is not democratic. It is not for the people." Other works by Serra are in the permanent collection of museums around the world. </cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>http://www.pbs.org/wgbh/cultureshock/flashpoints/visualarts/tiltedarc_a.html</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID cdwalite:type="URL">http://www.usc.edu/schools/annenberg/asc/projects/comm544/library/images/819.html</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>University of Southern California. Annenberg School for Communication &amp; Journalism</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew02</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-19</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">
+                                        http://www.nytimes.com/slideshow/2008/08/24/arts/0824-KOONS_6.html</cdwalite:linkResource>
+                    <cdwalite:resourceRelType>historical image</cdwalite:resourceRelType>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:rightsResource>Photo: Dith Pran/The New York Times</cdwalite:rightsResource>
+                    <cdwalite:resourceSource>The New York Times</cdwalite:resourceSource>
+                </cdwalite:resourceSet>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">
+                                        http://www.nyc-architecture.com/SCC/SCC032.htm</cdwalite:linkResource>
+                    <cdwalite:resourceRelType>historical images</cdwalite:resourceRelType>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:resourceViewDescription>Fig. 3 - aerial view, Fig. 5 - looking north, Fig. 6 - looking east</cdwalite:resourceViewDescription>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    

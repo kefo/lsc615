@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300266041">
+                                    algorithmic art</cdwalite:objectWorkType>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300312189">
+                                    application</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="preferred" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">The Shape of Song</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Martin Wattenberg (American, b. 1970)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:type="personalName">Wattenberg, Martin M.</cdwalite:nameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1970">born 1970</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300236481">computer scientists</cdwalite:roleCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMaterialsTech>custom software in this piece is written entirely in Java, with an applet to handle user interface and visualization and a servlet used to read MIDI files from the web ; appplication of the arc diagram, a visualization method for representing sequence structure by using a pattern-matching algorithm</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">algorithm</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">application</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="LCCN">JavaScript (Computer program language)</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">MIDI</cdwalite:termMaterialsTech>
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">HTML</cdwalite:termMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:displayCreationDate>2001-2002</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>2001</cdwalite:earliestDate>
+                    <cdwalite:latestDate>2002</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentLocation">http://www.turbulence.org/Works/song/mono.html</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300054146" cdwalite:type="conceptTerm">music</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+                <cdwalite:indexingSubjectSet cdwalite:type="description">
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300266041" cdwalite:type="conceptTerm">algorithmic art</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300266042" cdwalite:type="conceptTerm">generative art</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="LCSH" cdwalite:termsourceID="sh2002000243" cdwalite:type="conceptTerm">information visualization</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300266041">algorithmic art</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>The Shape of Song began as a quest to "see" musical form. I created a visualization method called an arc diagram that highlighted repeated sections of music--or of any sequence--with translucent arcs. The resulting images reflect the full range of musical forms, from the deep structure of Bach to the crystalline beauty of Philip Glass. The image above, for instance, is a view of Madonna's Like a Virgin.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>http://www.bewitched.com/song.html</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>The arc diagram is capable of representing complex patterns of repetition in string data. Arc diagrams improve over previous methods such as dotplots because they scale efficiently for strings that contain many instances of the same subsequence. One of the most promising applications of arc diagrams is to reveal structure in musical compositions. An arc diagram generalizes the musical AABB notation by using a pattern-matching algorithm to find repeated substrings, and then representing them visually as translucent arcs.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>Martin Wattenberg. "Arc Diagrams: Visualizaing Structure in Strings." InfoVis 2002. </cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+            <cdwalite:relatedWorksWrap>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>
+                                        http://www.turbulence.org/Works/song/gallery/gallery.html
+                                    </cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>rendering of</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>digital images</cdwalite:labelRelatedWork>
+                </cdwalite:relatedWorkSet>
+                <cdwalite:relatedWorkSet>
+                    <cdwalite:linkRelatedWork>http://www.bewitched.com/song.html</cdwalite:linkRelatedWork>
+                    <cdwalite:relatedWorkRelType>rendering of</cdwalite:relatedWorkRelType>
+                    <cdwalite:labelRelatedWork>digital images</cdwalite:labelRelatedWork>
+                </cdwalite:relatedWorkSet>
+            </cdwalite:relatedWorksWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID cdwalite:type="URL">http://www.turbulence.org/Works/song/index.html</cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew05</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-19</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    

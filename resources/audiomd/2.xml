@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audiomd:AUDIOMD
+    xmlns:audiomd="http://www.loc.gov/audioMD/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/audioMD/ http://www.loc.gov/standards/amdvmd/audioMD.xsd" ANALOGDIGITALFLAG="FileDigital">
+    <audiomd:fileData>
+        <audiomd:audioBlockSize>20003456</audiomd:audioBlockSize>
+        <audiomd:bitsPerSample>24</audiomd:bitsPerSample>
+        <audiomd:messageDigest>
+            <audiomd:messageDigestDatetime>2012-01-02T01:01:01</audiomd:messageDigestDatetime>
+            <audiomd:messageDigestAlgorithm>MD5</audiomd:messageDigestAlgorithm>
+            <audiomd:messageDigest>2kr12321313ggggggg</audiomd:messageDigest>
+        </audiomd:messageDigest>
+        <audiomd:formatLocation>http://www.somewhere.org/over/rainbow/2/mp3</audiomd:formatLocation>
+        <audiomd:formatName>OGG</audiomd:formatName>
+        <audiomd:samplingFrequency>44.1</audiomd:samplingFrequency>
+        <audiomd:use>Service</audiomd:use>
+    </audiomd:fileData>
+    <audiomd:audioInfo>
+        <audiomd:duration>03:02:17</audiomd:duration>
+        <audiomd:numChannels>2</audiomd:numChannels>
+    </audiomd:audioInfo>
+</audiomd:AUDIOMD>

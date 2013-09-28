@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+        <cdwalite:descriptiveMetadata>
+            <cdwalite:objectWorkTypeWrap>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300047199">object sculpture</cdwalite:objectWorkType>
+                <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300047194">
+                                    assemblage (sculpture)</cdwalite:objectWorkType>
+            </cdwalite:objectWorkTypeWrap>
+            <cdwalite:titleWrap>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:pref="preferred" cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">Untitled (Tilly Losch)</cdwalite:title>
+                </cdwalite:titleSet>
+                <cdwalite:titleSet>
+                    <cdwalite:title cdwalite:lang="eng" cdwalite:langtermsource="ISO 639-2">Tilly Losch</cdwalite:title>
+                </cdwalite:titleSet>
+            </cdwalite:titleWrap>
+            <cdwalite:displayCreator>Joseph Cornell (American, 1903-1972)</cdwalite:displayCreator>
+            <cdwalite:indexingCreatorWrap>
+                <cdwalite:indexingCreatorSet>
+                    <cdwalite:nameCreatorSet>
+                        <cdwalite:nameCreator cdwalite:termsource="ULAN" cdwalite:termsourceID="500003169" cdwalite:type="personalName">Cornell, Joseph</cdwalite:nameCreator>
+                        <cdwalite:sourceNameCreator>Union List of Artist Names (ULAN)</cdwalite:sourceNameCreator>
+                    </cdwalite:nameCreatorSet>
+                    <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                    <cdwalite:vitalDatesCreator cdwalite:birthDate="1903" cdwalite:deathDate="1972" cdwalite:termsource="AAT">1903-1972</cdwalite:vitalDatesCreator>
+                    <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                    <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300025103">artists (visual artists)</cdwalite:roleCreator>
+                </cdwalite:indexingCreatorSet>
+            </cdwalite:indexingCreatorWrap>
+            <cdwalite:displayMeasurements>25.4 x 23.5 x 5.4 cm (10 x 9-1/4 x 2-1/8 inches)</cdwalite:displayMeasurements>
+            <cdwalite:indexingMeasurementsWrap>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="25.4" cdwalite:unit="cm" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="23.5" cdwalite:unit="cm" cdwalite:type="width"/>
+                    <cdwalite:measurementsSet cdwalite:value="5.4" cdwalite:unit="cm" cdwalite:type="depth"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+                <cdwalite:indexingMeasurementsSet>
+                    <cdwalite:measurementsSet cdwalite:value="10" cdwalite:unit="in" cdwalite:type="height"/>
+                    <cdwalite:measurementsSet cdwalite:value="9.3" cdwalite:unit="in" cdwalite:type="width"/>
+                    <cdwalite:measurementsSet cdwalite:value="2.2" cdwalite:unit="in" cdwalite:type="depth"/>
+                    <cdwalite:extentMeasurements>overall</cdwalite:extentMeasurements>
+                </cdwalite:indexingMeasurementsSet>
+            </cdwalite:indexingMeasurementsWrap>
+            <cdwalite:displayMaterialsTech>mixed media assemblage, paper cutouts, box construction</cdwalite:displayMaterialsTech>
+            <cdwalite:indexingMaterialsTechWrap>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="technique">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">assemblage (sculpture technique)</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>overall</cdwalite:extentMaterialsTech>
+                </cdwalite:indexingMaterialsTechSet>
+                <cdwalite:indexingMaterialsTechSet cdwalite:type="medium">
+                    <cdwalite:termMaterialsTech cdwalite:termsource="AAT">mixed media</cdwalite:termMaterialsTech>
+                    <cdwalite:extentMaterialsTech>overall</cdwalite:extentMaterialsTech>
+                    <cdwalite:sourceMaterialsTech/>
+                </cdwalite:indexingMaterialsTechSet>
+            </cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:styleWrap>
+                <cdwalite:style cdwalite:termsource="AAT" cdwalite:termsourceID="300021512">Surrealist</cdwalite:style>
+            </cdwalite:styleWrap>
+            <cdwalite:cultureWrap>
+                <cdwalite:culture cdwalite:termsourceID="AAT" cdwalite:termsource="300107956">American</cdwalite:culture>
+                <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="300111153">Austrian</cdwalite:culture>
+            </cdwalite:cultureWrap>
+            <cdwalite:displayCreationDate>1935-1938</cdwalite:displayCreationDate>
+            <cdwalite:indexingDatesWrap>
+                <cdwalite:indexingDatesSet>
+                    <cdwalite:earliestDate>1935</cdwalite:earliestDate>
+                    <cdwalite:latestDate>1938</cdwalite:latestDate>
+                </cdwalite:indexingDatesSet>
+            </cdwalite:indexingDatesWrap>
+            <cdwalite:locationWrap>
+                <cdwalite:locationSet>
+                    <cdwalite:locationName cdwalite:type="currentLocation" cdwalite:termsource="AAT" cdwalite:termsourceID="300146236">The Robert Lehrman Art Trust, Aimee and Robert Lehrman (Washington, DC)</cdwalite:locationName>
+                </cdwalite:locationSet>
+            </cdwalite:locationWrap>
+            <cdwalite:indexingSubjectWrap>
+                <cdwalite:indexingSubjectSet>
+                    <cdwalite:subjectTerm cdwalite:type="personalName" cdwalite:termsource="LCCN" cdwalite:termsourceID="http://lccn.loc.gov/n85151677">Losch, Tilly, 1904-1975</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+                <cdwalite:indexingSubjectSet cdwalite:type="description">
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="300008795">mountains</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="300008836">moraines</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300015636">landscapes (representations)</cdwalite:subjectTerm>
+                    <cdwalite:subjectTerm cdwalite:termsource="AAT" cdwalite:termsourceID="300133101">winter</cdwalite:subjectTerm>
+                </cdwalite:indexingSubjectSet>
+            </cdwalite:indexingSubjectWrap>
+            <cdwalite:classWrap>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300047199">object sculpture</cdwalite:classification>
+                <cdwalite:classification cdwalite:termsource="AAT" cdwalite:termsourceID="300047194">assemblages (sculpture)</cdwalite:classification>
+            </cdwalite:classWrap>
+            <cdwalite:descriptiveNoteWrap>
+                <cdwalite:descriptiveNoteSet>
+                    <cdwalite:descriptiveNote>Image of a young girl hanging suspended above snow-covered mountains.</cdwalite:descriptiveNote>
+                    <cdwalite:sourceDescriptiveNote>Art Inventories Catalog, Smithsonian American Art Museums</cdwalite:sourceDescriptiveNote>
+                </cdwalite:descriptiveNoteSet>
+            </cdwalite:descriptiveNoteWrap>
+        </cdwalite:descriptiveMetadata>
+        <cdwalite:administrativeMetadata>
+            <cdwalite:rightsWork>The Joseph and Robert Cornell Memorial Foundation/Licensed by VAGA, New York, NY</cdwalite:rightsWork>
+            <cdwalite:recordWrap>
+                <cdwalite:recordID cdwalite:type="URL">
+                                    http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=link=3100009~!1472585~!3100001~!3100002
+                                </cdwalite:recordID>
+                <cdwalite:recordType>item</cdwalite:recordType>
+                <cdwalite:recordSource>Art Inventories Catalog, Smithsonian American Art Museums</cdwalite:recordSource>
+                <cdwalite:recordInfoWrap>
+                    <cdwalite:recordInfoID cdwalite:type="oai">oai:lis.illinois.edu:local-id-shrew04</cdwalite:recordInfoID>
+                    <cdwalite:recordMetadataDate>2012-04-19</cdwalite:recordMetadataDate>
+                </cdwalite:recordInfoWrap>
+            </cdwalite:recordWrap>
+            <cdwalite:resourceWrap>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">
+                                        http://c4gallery.com/artist/database/joseph-cornell/joseph-cornell-untitled-tilly-losch.jpg
+                                    </cdwalite:linkResource>
+                    <cdwalite:resourceRelType>documentary image</cdwalite:resourceRelType>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:rightsResource>Photo: Mark Gulezian/Quicksilver</cdwalite:rightsResource>
+                </cdwalite:resourceSet>
+                <cdwalite:resourceSet>
+                    <cdwalite:linkResource cdwalite:type="URL">           
+                                        http://www.ibiblio.org/wm/paint/auth/cornell/cornell.tilly-losch.jpg
+                                    </cdwalite:linkResource>
+                    <cdwalite:resourceRelType>documentary image</cdwalite:resourceRelType>
+                    <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">digital images</cdwalite:resourceType>
+                    <cdwalite:resourceViewDescription>oblique view</cdwalite:resourceViewDescription>
+                    <cdwalite:resourceSource>Photo: Mark Harden</cdwalite:resourceSource>
+                </cdwalite:resourceSet>
+            </cdwalite:resourceWrap>
+        </cdwalite:administrativeMetadata>
+    </cdwalite:cdwalite>
+    
