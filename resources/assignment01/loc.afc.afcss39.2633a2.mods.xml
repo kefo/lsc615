@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/" xmlns:sa="http://www.loc.gov/mets/profiles/simpleAudio" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:mxe="http://www.loc.gov/mxe">
+	  <mods:titleInfo>
+	    <mods:title>Billy Boy</mods:title>
+	  </mods:titleInfo>
+	  <mods:name type="personal">
+	    <mods:namePart>Duggan, Shirley Lomax, 1905-1996</mods:namePart>
+	    <mods:role>
+	      <mods:roleTerm type="text">performer</mods:roleTerm>
+	    </mods:role>
+	  </mods:name>
+	  <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+	  <mods:genre authority="lcgft">Field recordings</mods:genre>
+	  <mods:genre authority="bgtchm">Music</mods:genre>
+	  <mods:genre authority="lcsh">Ballads</mods:genre>
+	  <mods:originInfo>
+	    <mods:place>
+	      <mods:placeTerm type="text">near Comanche, Texas</mods:placeTerm>
+	    </mods:place>
+	    <mods:dateIssued>1939-05-07</mods:dateIssued>
+	    <mods:dateIssued encoding="marc">1939</mods:dateIssued>
+	    <mods:dateIssued encoding="marc">1939</mods:dateIssued>
+	  </mods:originInfo>
+	  <mods:language>
+	    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+	  </mods:language>
+	  <mods:physicalDescription>
+	    <mods:form authority="marccategory">sound recording</mods:form>
+	    <mods:form authority="marcsmd">sound disc</mods:form>
+	    <mods:extent>1 sound disc : analog ; 12 in. </mods:extent>
+	  </mods:physicalDescription>
+	  <mods:note>Venue: Home of Judge &amp; Mrs. Oscar Callaway; Callaway Ranch</mods:note>
+	  <mods:note>Performance Note: "Billy Boy" performed by Shirley Lomax Duggan (vocals) at home of Judge &amp; Mrs. Oscar Callaway; Callaway Ranch, near Comanche, Texas, on May 7, 1939.</mods:note>
+	  <mods:note type="language">In English.</mods:note>
+	  <mods:note type="exhibitions">Also included in The John and Ruby Lomax 1939 Southern States Recording Trip.</mods:note>
+	  <mods:subject>
+	    <mods:hierarchicalGeographic>
+	      <mods:country>United States</mods:country>
+	      <mods:state>Texas</mods:state>
+	      <mods:city>Comanche</mods:city>
+	      <mods:citySection>place of recording</mods:citySection>
+	    </mods:hierarchicalGeographic>
+	  </mods:subject>
+	  <mods:accessCondition type="restrictionOnAccess">For rights information please contact the Folklife Reading Room at http://hdl.loc.gov/loc.afc/folklife.contact </mods:accessCondition>
+	  <mods:location>
+	    <mods:physicalLocation>AFC 1939/001: AFS 02633a02 </mods:physicalLocation>
+	  </mods:location>
+	  <mods:location>
+	    <mods:physicalLocation>DLC-AFC American Folklife Center, Library of Congress </mods:physicalLocation>
+	  </mods:location>
+	  <mods:relatedItem type="host">
+	    <mods:titleInfo>
+	      <mods:title>John and Ruby Lomax 1939 Southern States Recording Trip (AFC 1939/001)</mods:title>
+	    </mods:titleInfo>
+	  </mods:relatedItem>
+	  <mods:identifier type="membership">ammem</mods:identifier>
+	  <mods:identifier type="membership">IHAS</mods:identifier>
+	  <mods:identifier type="membership">afcss39</mods:identifier>
+	  <mods:identifier type="membership">songamerica</mods:identifier>
+	  <mods:recordInfo>
+	    <mods:recordCreationDate encoding="marc">     2</mods:recordCreationDate>
+	    <mods:recordChangeDate encoding="marc">130615</mods:recordChangeDate>
+	    <mods:recordIdentifier source="DLC">5601216496579647313</mods:recordIdentifier>
+	  </mods:recordInfo>
+	</mods:mods>

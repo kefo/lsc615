@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Assignment 1 :: LSC615</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8" />
+  <link href="/lsc615/static/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
+  	<style>
+		.container {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+	</style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+	
+        <!-- Section 1 -->
+        <div class="span12">
+
+
+<h2>Assignment 1 - Metadata Encoding (30% of overall grade)</h2>
+<br />
+<p>NB: I will provide further information about IEEE LOM resources you will need for part 3 of this assignment in the coming days.</p>
+<br />
+<p>
+For this assignment, you will create a variety of metadata records for two different expressions of <i>Billy Boy</i>, a traditional folk song. The expressions that you will be creating metadata records for are:
+</p>
+<br />
+<p>An audio recording of the song in MP3 format located at <a href="http://memory.loc.gov/afc/afcss39/263/2633a2.mp3">http://memory.loc.gov/afc/afcss39/263/2633a2.mp3</a></p>
+<br />
+<p>The musical score digitized as 3 TIFF images.</p>
+<ul>
+	<li><a href="http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/001.tif">http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/001.tif</a></li>
+	<li><a href="http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/002.tif">http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/002.tif</a></li>
+	<li><a href="http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/003.tif">http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/003.tif</a></li>
+</ul>
+<div class="span10" style="border:2px solid red;">
+    <h4>Alternate links, because of el government shutdown.</h4>
+    <ul>
+        <li><i>Billy Boy</i> songsheet
+            <ul>
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.music.sm1847.420580.mods.xml">MODS/XML</a></li>
+                <!--
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.music.sm1847.420580.001.jpg">Page 1 (JPG)</a></li>
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.music.sm1847.420580.002.jpg">Page 2 (JPG)</a></li>
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.music.sm1847.420580.003.jpg">Page 3 (JPG)</a></li>
+                -->
+            </ul>
+        </li>
+        <li><i>Billy Boy</i> audio
+            <ul>
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.afc.afcss39.2633a2.mods.xml">MODS/XML</a></li>
+                <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.afc.afcss39.2633a2.mp3">MP3</a></li>
+                <!-- <li><a href="http://3windmills.com/lsc615/resources/assignment01/loc.afc.afcss39.2633a2.wav">WAV</a></li> -->
+            </ul>
+        </li>
+        <li>Schema: AUDIOMD
+            <ul>
+                <li><a href="http://3windmills.com/lsc615/xml-edit-validate/xsd/audioMD.xsd">XSD</a></li>
+                <li><a href="http://web.archive.org/web/20130303164716/http://www.loc.gov/standards/amdvmd/audiovideoMDschemas.html">Documentation</a></li>
+            </ul>
+        </li>
+        <li>Schema: MIX
+            <ul>
+                <li><a href="http://3windmills.com/lsc615/xml-edit-validate/xsd/mix20.xsd">XSD</a></li>
+                <li><a href="http://web.archive.org/web/20130823124121/http://www.loc.gov/standards/mix/">Documentation</a></li>
+            </ul>
+        </li>
+        <li>Schema: METS
+            <ul>
+                <li><a href="http://3windmills.com/lsc615/xml-edit-validate/xsd/mets.xsd">XSD</a></li>
+                <li><a href="http://3windmills.com/lsc615/documents/METSPrimerRevised.pdf">Documentation</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<br />
+<p>As the syllabus indicates, this is a multipart assignment.  The first part will involve creating descriptive and administrative metadata records for the two items.  <strike>Part 1 will be due <b>Friday, 4 October at 10 PM</b>.</strike> (See below.)  You will need to bring these records with you to class the following day.  Be aware that ALL XML submissions will be validated after they have been submitted.  Points will be taken off for files that do not validate in the 3windmills application (this will be waived should a bug be found that made it impossible).</p>
+<br />
+<br />
+<p>Part 1 - Descriptive Metadata (10% of overall grade)</p>
+<p><b>Due <span style="color: red;">(Updated, 1 October 2012, new date and time)</span>: Post XML records to this week's discussion forum by 4 October, 11:59 PM; Package of XML records <b>and</b> essay due by 11 October, 11:59 PM.</b></p>
+<br />
+<p>Create two CDWA-lite records (one for the audio recording and one for the score) for the folksong.  For the CDWA-lite records use the XML schema found at <a href="http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd</a>.  The CDWA-Lite schema and elements dictionary available here: <a href="http://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf">http://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf</a>.  Examples of CDWA records may be found here: <a href="http://3windmills.com/lsc615/resources/cdwalite/">http://3windmills.com/lsc615/resources/cdwalite/</a>.</p>
+<br />
+<p>You may feel free to look at descriptive records for the two expressions while creating your own.  A MODS record for the MP3 sound recording can be found at <a href="http://memory.loc.gov/diglib/ihas/loc.afc.afcss39.2633a2/mods.xml">http://memory.loc.gov/diglib/ihas/loc.afc.afcss39.2633a2/mods.xml</a>, and a MODS record for the musical score can be found at <a href="http://lcweb2.loc.gov/diglib/ihas/loc.music.sm1847.420580/mods.xml">http://lcweb2.loc.gov/diglib/ihas/loc.music.sm1847.420580/mods.xml</a>.</p>
+<br />
+<p>You will also create a technical metadata record for the audio file using the AudioMD (<a href="http://www.loc.gov/standards/amdvmd/audioMD.xsd">http://www.loc.gov/standards/amdvmd/audioMD.xsd</a>) and a technical record for one of the TIFF files using the MIX Schema (<a href="http://www.loc.gov/standards/mix/mix20/mix20.xsd">http://www.loc.gov/standards/mix/mix20/mix20.xsd</a>).  Examples of AUDIOMD records are available at <a href="http://3windmills.com/lsc615/resources/audiomd/">http://3windmills.com/lsc615/resources/audiomd/</a> and examples of MIX records are available at <a href="http://3windmills.com/lsc615/resources/mix/">http://3windmills.com/lsc615/resources/mix/</a> (the second example is pretty much a representation of all the possible values, but bear in mind that it is for MIX version 1.0, not 2.0; I believe 2.0 is backwards compatible).  These standards require you to record technical characteristics about the data file.  I recommend saving the files to your local hard drive and then loading them up in one or more display/playback tools you may have and seeing what technical information the tools can provide.  iTunes "Get Info" option, for example, can tell you an audio file's format, size, bit rate, sampling rate, number of channels, etc.  Windows Media Player can also provide some technical information about the file.  The same functionality is likely built in to an image or photograph organizing program for the TIFFs.</p>
+<br />
+<p>Then write a 1000-1100 word paper discussing any problematic issues that arose in creating the metadata records.  Evaluate CDWA-lite's effectiveness in describing the resources.  You should compare this experience with your experience creating DC records, MODS records, and VRA records.  Also, explore how the technical metadata you created meshes with the descriptive metadata.  How is it different?  Consider some of the uses of technical metadata to a variety of users.</p>
+<br />
+<p>You should submit both your paper and complete copies of your XML metadata records. The paper should be submitted in MS-Word, OpenOffice or PDF format; your XML records should be submitted as four separate XML files. Please submit all of your files through Blackboard by packaging them together using WinZip, StuffIt or Unix tar+gzip and submitting the single, packaged file through Blackboard.
+</p>
+<br />
+<br />
+<p>Part 2 – Administrative Metadata (10% of overall grade)</p>
+<p><b>Due: <span style="color: red;">(Updated, 1 October 2012, new date and time)</span>18 October, 11:59 PM</b></p>
+<br />
+<p>For this portion of the assignment, you will create a structural metadata record for the Library of Congress March using the METS schema (<a href="http://www.loc.gov/standards/mets/mets.xsd">http://www.loc.gov/standards/mets/mets.xsd</a>).  Your METS record should incorporate ALL of the previous descriptive and administrative metadata records that you have created.  You do not need to write any paper describing your work with METS; simply submit your completed METS file through Blackboard.  NB: we will be working through METS construction during our Saturday (5 October) together, so you may want to hold off on working on this part too hard until then.</p>
+<br />
+<br />
+<p>Part 3 - Crosswalking (10% of overall grade)</p>
+<p><b>Due: <span style="color: red;">(Updated, 1 October 2012, new time)</span>1 November, 11:59 PM.</b></p>
+<br />
+<p>For this assignment, you will start with your CDWA-lite records you created in part 1 of this assignment.  You'll crosswalk the record into simple Dublin Core format, using the OAI Dublin Core XML schema as the basis for authoring the new metadata record. Then, using <b>only the information contained within the Dublin Core Record</b>, crosswalk that record into IEEE LOM Metadata using the IMS Global Learning Consortium LOM Metadata schema (NB: there are slight variations between IEEE LOM and the IMS implementation of LOM.  See the IMS Metadata Best Practice Guide for details on the IMS implementation). Write a 3 page paper (1-inch margins, double-spaced) discussing the changes in metadata resulting from each crosswalk, and the overall changes in metadata resulting from the complete process. Try to focus your discussion on why you choose to retain, eliminate or add information in each crosswalk, and how you think that may impact people's ability to use the resulting metadata record.  Bundle your XML records with your paper and submit them through Blackboard.</p>
+<br />
+<br />
+
+<!--
+
+
+For this portion of the assignment, you will create a technical metadata record for the audio file using the PBCore Schema (http://www.pbcore.org/PBCore/PBCoreSchema_v1-2.xsd), a technical record for one of the TIFF files for the score using the MIX Schema (http://www.loc.gov/standards/mix/mix20/mix20.xsd), and separate records for both the audio file and the TIFF image file using the PREMIS Object record format (http://www.loc.gov/standards/premis/premis.xsd).  All of these standards require you to record technical characteristics about the data file.  I recommend saving the files to your local hard drive and then loading them up in one or more display/playback tools you may have and seeing what technical information the tools can provide.  iTunes “Get Info” option, for example, can tell you an audio file’s format, size, bit rate, sampling rate, number of channels, etc.  Windows Media Player can also provide some technical information about the file.  Write a 750-800 word paper discussing how effectively you think the PREMIS records describe the files in comparison to the PBCore and MIX schemas.  Package your paper with XML files and submit them through Moodle.
+
+Part 3 – Structural Metadata (10%)
+Due: March 19
+
+For this portion of the assignment, you will create a structural metadata record for the Library of Congress March using the METS schema (http://www.loc.gov/standards/mets/mets.xsd).  Your METS record should incorporate ALL of the previous descriptive and administrative metadata records that you have created.  You do not need to write any paper describing your work with METS; simply submit your completed METS file through Moodle.  NB: we will be working through METS construction during our on-campus day, so you may want to hold off on working on this part too hard until then.
+
+Assignment 2 - Crosswalking (30%)
+Due: April 2
+
+For this assignment, you will start with the CDWA record which we examined in the section on descriptive metadata, and crosswalk the record into simple Dublin Core format, using the OAI Dublin Core XML schema as the basis for authoring the new metadata record. Then, using only the information contained within the Dublin Core Record, crosswalk that record into IEEE LOM Metadata using the IMS Global Learning Consortium LOM Metadata schema (NB: there are slight variations between IEEE LOM and the IMS implementation of LOM.  See the IMS Metadata Best Practice Guide for details on the IMS implementation). Write a 5 page paper discussing the changes in metadata resulting from each crosswalk, and the overall changes in metadata resulting from the complete process. Try to focus your discussion on why you choose to retain, eliminate or add information in each crosswalk, and how you think that may impact people's ability to use the resulting metadata record.  Bundle your XML records with your paper and submit them through Moodle.
+
+
+
+Billy boy sheet music
+http://lcweb2.loc.gov/diglib/ihas/loc.music.sm1847.420580/
+
+Pages
+http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/001.tif
+http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/002.tif
+http://lcweb2.loc.gov/music/sm2/sm1847/420000/420580/003.tif
+
+MODS
+http://lcweb2.loc.gov/diglib/ihas/loc.music.sm1847.420580/mods.xml
+
+
+
+Billy Boy recording
+http://memory.loc.gov/diglib/ihas/loc.afc.afcss39.2633a2/
+
+MP3/WAV
+http://memory.loc.gov/afc/afcss39/263/2633a2.mp3
+http://memory.loc.gov/afc/afcss39/263/2633a2.wav
+
+MODS
+http://memory.loc.gov/diglib/ihas/loc.afc.afcss39.2633a2/mods.xml
+
+
+
+Part 1 - Descriptive and Administrative/Technical
+	Descriptive = CDWA
+	Technical = AudioMD, MIX
+	
+Part 2 - Structural
+	METS
+	
+Part 3 - Crosswalk
+	CDWA -> DC -> IEEE LOM
+	
+	-->
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+	
