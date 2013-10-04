@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+    <cdwalite:descriptiveMetadata>
+        
+        <cdwalite:objectWorkTypeWrap>
+            <cdwalite:objectWorkType cdwalite:termsource="aat" cdwalite:termsourceID="300026427">score</cdwalite:objectWorkType>
+        </cdwalite:objectWorkTypeWrap>
+        
+        <cdwalite:titleWrap>
+            <cdwalite:titleSet>
+                <cdwalite:title cdwalite:lang="en" cdwalite:pref="preferred" cdwalite:type="repository">Library of Congress March</cdwalite:title>
+                <cdwalite:sourceTitle>Library of Congress. http://memory.loc.gov/diglib/ihas/loc.natlib.ihas.100010802/ (accessed 18 February 2009)</cdwalite:sourceTitle>
+            </cdwalite:titleSet>
+        </cdwalite:titleWrap>
+        
+        <cdwalite:displayCreator>John Philip Sousa (American composer, 1854-1932); Steve Bulla (American arranger, 1953-)</cdwalite:displayCreator>
+        <cdwalite:indexingCreatorWrap>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:termsource="lcna" cdwalite:termsourceID="n 79122078" cdwalite:type="personalName">Sousa, John Philip</cdwalite:nameCreator>
+                    <cdwalite:sourceNameCreator>Library of Congress Name Authority File</cdwalite:sourceNameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                <cdwalite:vitalDatesCreator cdwalite:birthDate="1854" cdwalite:deathDate="1932">1854-1932</cdwalite:vitalDatesCreator>
+                <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                <cdwalite:roleCreator cdwalite:termsource="aat" cdwalite:termsourceID="300025671">composer</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:termsource="lcna" cdwalite:termsourceID="n 86142653" cdwalite:type="personalName">Bulla, Steve</cdwalite:nameCreator>
+                    <cdwalite:sourceNameCreator>Library of Congress Name Authority File</cdwalite:sourceNameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                <cdwalite:vitalDatesCreator cdwalite:birthDate="1953">1953-</cdwalite:vitalDatesCreator>
+                <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                <cdwalite:roleCreator cdwalite:termsource="aat" cdwalite:termsourceID="300025667">arranger</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+        </cdwalite:indexingCreatorWrap>
+        
+        <cdwalite:displayMeasurements>12, 8 1/2 x 11 inch pages;</cdwalite:displayMeasurements>
+        <cdwalite:indexingMeasurementsWrap>
+            <cdwalite:indexingMeasurementsSet>
+                <cdwalite:measurementsSet cdwalite:unit="count" cdwalite:type="pages" cdwalite:value="12"/>
+                <cdwalite:measurementsSet cdwalite:unit="inches" cdwalite:type="width" cdwalite:value="8.5"/>
+                <cdwalite:measurementsSet cdwalite:unit="inches" cdwalite:type="height" cdwalite:value="11"/>
+            </cdwalite:indexingMeasurementsSet>
+        </cdwalite:indexingMeasurementsWrap>
+        
+        <cdwalite:displayMaterialsTech>ink and paper</cdwalite:displayMaterialsTech>
+        <cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:indexingMaterialsTechSet cdwalite:type="medium">
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">ink</cdwalite:termMaterialsTech>
+            </cdwalite:indexingMaterialsTechSet>
+            <cdwalite:indexingMaterialsTechSet cdwalite:type="support">
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">paper</cdwalite:termMaterialsTech>
+            </cdwalite:indexingMaterialsTechSet>
+        </cdwalite:indexingMaterialsTechWrap>
+        
+        <cdwalite:displayCreationDate>Created 2003</cdwalite:displayCreationDate>
+        <cdwalite:indexingDatesWrap>
+            <cdwalite:indexingDatesSet>
+                <cdwalite:dateQualifier>creation</cdwalite:dateQualifier>
+                <cdwalite:earliestDate>2003</cdwalite:earliestDate>
+                <cdwalite:latestDate>2003</cdwalite:latestDate>
+            </cdwalite:indexingDatesSet>
+        </cdwalite:indexingDatesWrap>
+        
+        <cdwalite:locationWrap>
+            <cdwalite:locationSet>
+                <cdwalite:locationName cdwalite:type="currentRepository">Library of Congress (Washington, D.C.)</cdwalite:locationName>
+                <cdwalite:workID>100010802</cdwalite:workID>
+            </cdwalite:locationSet>
+        </cdwalite:locationWrap>
+        
+        
+        <cdwalite:indexingSubjectWrap>
+            <cdwalite:indexingSubjectSet>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300198952" cdwalite:type="description">piccolo (flute)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042513" cdwalite:type="description">flute (aerophone)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042539" cdwalite:type="description">oboe</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042442" cdwalite:type="description">bassoon</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">E-flat clarinet</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">B-flat Clarinet</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">E-flat Alto Clarinet</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">B-flat Bass Clarinet</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">Alto Saxophone</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">Tenor Saxophone</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="description">Baritone Saxophone</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042314" cdwalite:type="description">cornet (aerophone)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042339" cdwalite:type="description">trumpet (aerophone)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042319" cdwalite:type="description">French horn</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042335" cdwalite:type="description">trombone (trumpet)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042300" cdwalite:type="description">euphonium</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300042366" cdwalite:type="description">tuba</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="aat" cdwalite:termsourceID="300041729" cdwalite:type="description">drum (membranophone)</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:termsource="lcsh" cdwalite:type="identification">Marches (Band), Arranged--Scores and parts</cdwalite:subjectTerm>                
+                <!-- Should this subject heading, as it is currently, be a style? Could it be a classification? -->
+            </cdwalite:indexingSubjectSet>
+        </cdwalite:indexingSubjectWrap>
+        
+        
+        <cdwalite:descriptiveNoteWrap>
+            <cdwalite:descriptiveNoteSet>
+                <cdwalite:descriptiveNote>The march was begun by John Philip Sousa in 1931, but never completed.  Stephen Bulla was able to finish and orchestrate the score by using Sousa's fragmentary sketches, a piano draft, and one page of a completed band score.</cdwalite:descriptiveNote>
+            </cdwalite:descriptiveNoteSet>
+        </cdwalite:descriptiveNoteWrap>
+    </cdwalite:descriptiveMetadata>
+    
+    
+    
+    
+    <cdwalite:administrativeMetadata>
+        <cdwalite:rightsWork>Copyright 2003 by John Philip Sousa, Inc.</cdwalite:rightsWork>
+        <cdwalite:rightsWork>Permission to download score and parts and public performance garnted.</cdwalite:rightsWork>
+        
+        <cdwalite:recordWrap>
+            <cdwalite:recordID>100010802</cdwalite:recordID>
+            <cdwalite:recordType>item</cdwalite:recordType>
+            <cdwalite:recordSource>Library of Congress</cdwalite:recordSource>
+            <cdwalite:recordInfoWrap>
+                <cdwalite:recordInfoID>loc.natlib.ihas.100010802</cdwalite:recordInfoID>
+                <cdwalite:recordInfoLink>http://memory.loc.gov/diglib/ihas/loc.natlib.ihas.100010802/</cdwalite:recordInfoLink>
+            </cdwalite:recordInfoWrap>
+        </cdwalite:recordWrap>
+        
+        <cdwalite:resourceWrap>
+            <cdwalite:resourceSet>
+                <cdwalite:resourceID>100010802/0001b.tif</cdwalite:resourceID>
+                <cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+                <cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+                <cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+            </cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0002b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0003b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0004b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0005b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0006b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0007b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0008b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0009b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0010b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0011b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>
+			
+			<cdwalite:resourceSet>
+				<cdwalite:resourceID>100010802/0012b.tif</cdwalite:resourceID>
+				<cdwalite:resourceType>digital image</cdwalite:resourceType>
+				<cdwalite:rightsResource>Copyright 2003 by John Philip Sousa, Inc.  Permission to download score and parts and public performance garnted.</cdwalite:rightsResource>
+				<cdwalite:resourceViewDate cdwalite:earliestdate="2003-07-17" cdwalite:latestdate="2003-07-17">2003-07-17</cdwalite:resourceViewDate>
+				<cdwalite:resourceSource>Library of Congress (Washington, D.C.)</cdwalite:resourceSource>
+			</cdwalite:resourceSet>			
+			
+        </cdwalite:resourceWrap>
+        
+    </cdwalite:administrativeMetadata>
+    
+    
+</cdwalite:cdwalite>

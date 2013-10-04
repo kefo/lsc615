@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+    <cdwalite:descriptiveMetadata>
+
+        <cdwalite:objectWorkTypeWrap>
+            <cdwalite:objectWorkType cdwalite:termsource="aat" cdwalite:termsourceID="300028633">sound recording</cdwalite:objectWorkType>
+        </cdwalite:objectWorkTypeWrap>
+
+        <cdwalite:titleWrap>
+            <cdwalite:titleSet>
+                <cdwalite:title cdwalite:lang="en" cdwalite:pref="preferred" cdwalite:type="repository">Library of Congress March</cdwalite:title>
+                <cdwalite:sourceTitle>Library of Congress. http://memory.loc.gov/diglib/ihas/loc.natlib.ihas.100010804/default.html (accessed 18 February 2009)</cdwalite:sourceTitle>
+            </cdwalite:titleSet>
+        </cdwalite:titleWrap>
+
+        <cdwalite:displayCreator>John Philip Sousa (American composer, 1854-1932); Steve Bulla (American arranger, 1953-); First Lieutenant Jason K. Fettig (conductor); United States Marine Band (performer)</cdwalite:displayCreator>
+        <cdwalite:indexingCreatorWrap>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:termsource="lcna" cdwalite:termsourceID="n 79122078" cdwalite:type="personalName">Sousa, John Philip</cdwalite:nameCreator>
+                    <cdwalite:sourceNameCreator>Library of Congress Name Authority File</cdwalite:sourceNameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                <cdwalite:vitalDatesCreator cdwalite:birthDate="1854" cdwalite:deathDate="1932">1854-1932</cdwalite:vitalDatesCreator>
+                <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                <cdwalite:roleCreator cdwalite:termsource="aat" cdwalite:termsourceID="300025671">composer</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:termsource="lcna" cdwalite:termsourceID="n 86142653" cdwalite:type="personalName">Bulla, Steve</cdwalite:nameCreator>
+                    <cdwalite:sourceNameCreator>Library of Congress Name Authority File</cdwalite:sourceNameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:nationalityCreator>American</cdwalite:nationalityCreator>
+                <cdwalite:vitalDatesCreator cdwalite:birthDate="1953">1953-</cdwalite:vitalDatesCreator>
+                <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                <cdwalite:roleCreator cdwalite:termsource="aat" cdwalite:termsourceID="300025667">arranger</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:type="personalName">Fettig, Jason K., first lieutenant</cdwalite:nameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:genderCreator>male</cdwalite:genderCreator>
+                <cdwalite:roleCreator cdwalite:termsource="aat" cdwalite:termsourceID="300025672">conductor (musician)</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>       
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:type="corporateName">United States Marine Band</cdwalite:nameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:roleCreator cdwalite:termsource="lcsh" cdwalite:termsourceID="sh 85081020">Marching Bands</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+        </cdwalite:indexingCreatorWrap>
+
+        <cdwalite:displayMeasurements>00:02:23 minutes long; 1.73 Mb file size</cdwalite:displayMeasurements>
+        <cdwalite:indexingMeasurementsWrap>
+            <cdwalite:indexingMeasurementsSet>
+                <cdwalite:measurementsSet cdwalite:unit="minutes" cdwalite:type="running time" cdwalite:value="00:02:23"/>
+                <cdwalite:measurementsSet cdwalite:unit="Mb" cdwalite:type="size" cdwalite:value="1.73"/>
+                <cdwalite:formatMeasurements>audio/mpeg</cdwalite:formatMeasurements>  <!-- should this be elsewhere? -->
+            </cdwalite:indexingMeasurementsSet>
+        </cdwalite:indexingMeasurementsWrap>
+        
+        <cdwalite:displayMaterialsTech>piccolo (flute); flute (aerophone); oboe; bassoon; E-flat clarinet; B-flat Clarinet; E-flat Alto Clarinet; B-flat Bass Clarinet; Alto Saxophone; Tenor Saxophone; Baritone Saxophone; cornet (aerophone); trumpet (aerophone); French horn; trombone (trumpet); euphonium; tuba; drum (membranophone)</cdwalite:displayMaterialsTech>
+        <cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:indexingMaterialsTechSet>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">piccolo (flute)</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">flute (aerophone)</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">oboe</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">bassoon</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>E-flat clarinet</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>B-flat Clarinet</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>E-flat Alto Clarinet</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>B-flat Bass Clarinet</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>Alto Saxophone</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>Tenor Saxophone</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech>Baritone Saxophone</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">cornet (aerophone)</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">trumpet (aerophone)</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">French horn</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">trombone (trumpet)</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">euphonium</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">tuba</cdwalite:termMaterialsTech>
+                <cdwalite:termMaterialsTech cdwalite:termsource="aat">drum (membranophone)</cdwalite:termMaterialsTech>
+            </cdwalite:indexingMaterialsTechSet>
+        </cdwalite:indexingMaterialsTechWrap>
+        
+        <cdwalite:displayCreationDate>Created 2003</cdwalite:displayCreationDate>
+        <cdwalite:indexingDatesWrap>
+            <cdwalite:indexingDatesSet>
+                <cdwalite:dateQualifier>creation</cdwalite:dateQualifier>
+                <cdwalite:earliestDate>2003</cdwalite:earliestDate>
+                <cdwalite:latestDate>2003</cdwalite:latestDate>
+            </cdwalite:indexingDatesSet>
+        </cdwalite:indexingDatesWrap>
+        
+        <cdwalite:locationWrap>
+            <cdwalite:locationSet>
+                <cdwalite:locationName cdwalite:type="currentRepository">Library of Congress (Washington, D.C.)</cdwalite:locationName>
+                <cdwalite:workID>100010804</cdwalite:workID>
+            </cdwalite:locationSet>
+        </cdwalite:locationWrap>
+        
+        
+        <cdwalite:indexingSubjectWrap>
+            <cdwalite:indexingSubjectSet>
+                <cdwalite:subjectTerm cdwalite:termsource="lcsh" cdwalite:termsourceID="sh 85080981" cdwalite:type="description">Marches (Band)</cdwalite:subjectTerm>
+                <!-- Should this subject heading, as it is currently, be a style? Could it be a classification? -->
+            </cdwalite:indexingSubjectSet>
+        </cdwalite:indexingSubjectWrap>
+        
+        
+        <cdwalite:descriptiveNoteWrap>
+            <cdwalite:descriptiveNoteSet>
+                <cdwalite:descriptiveNote>Sound recording in digital format.</cdwalite:descriptiveNote>
+            </cdwalite:descriptiveNoteSet>
+        </cdwalite:descriptiveNoteWrap>
+    </cdwalite:descriptiveMetadata>
+
+
+
+
+    <cdwalite:administrativeMetadata>
+        <cdwalite:rightsWork></cdwalite:rightsWork>
+        <!-- In the absence of rights information, not including any - though could very well be public domain -->
+
+        <cdwalite:recordWrap>
+            <cdwalite:recordID>100010804</cdwalite:recordID>
+            <cdwalite:recordType>item</cdwalite:recordType>
+            <cdwalite:recordSource>Library of Congress</cdwalite:recordSource>
+            <cdwalite:recordInfoWrap>
+                <cdwalite:recordInfoID>loc.natlib.ihas.100010804</cdwalite:recordInfoID>
+                <cdwalite:recordInfoLink>http://memory.loc.gov/diglib/ihas/loc.natlib.ihas.100010804/</cdwalite:recordInfoLink>
+            </cdwalite:recordInfoWrap>
+        </cdwalite:recordWrap>
+        
+        <cdwalite:resourceWrap>
+            <cdwalite:resourceSet>
+                <cdwalite:resourceID>100010804</cdwalite:resourceID>
+                <cdwalite:resourceType>sound recording</cdwalite:resourceType>
+                <cdwalite:resourceViewDate>2003</cdwalite:resourceViewDate>
+                <cdwalite:resourceSource>Library of Congress</cdwalite:resourceSource>
+            </cdwalite:resourceSet>
+        </cdwalite:resourceWrap>
+        
+    </cdwalite:administrativeMetadata>
+    
+    
+</cdwalite:cdwalite>

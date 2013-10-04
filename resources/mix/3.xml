@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mix xmlns="http://www.loc.gov/mix/v20"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+    <BasicDigitalObjectInformation>
+        <ObjectIdentifier>
+            <objectIdentifierType>locID</objectIdentifierType>
+            <objectIdentifierValue>loc.natlib.ihas.100010802</objectIdentifierValue>
+        </ObjectIdentifier>
+        <fileSize>71882</fileSize>
+        <!-- to be captured upon ingest - should this be included? -->
+        <!-- some issues here with discrepencies between programs claiming to identify this image -->
+        <FormatDesignation>
+            <formatName>image/tiff</formatName>
+            <formatVersion>5.0</formatVersion>
+        </FormatDesignation>
+        <FormatRegistry>
+            <formatRegistryName>PRONOM</formatRegistryName>
+            <formatRegistryKey>fmt/10</formatRegistryKey>
+        </FormatRegistry>
+        <byteOrder>big endian</byteOrder>
+        <Compression>
+            <!-- This comes from imagemagick.  jhove simply reported, "4."  Metadata-extractor noted it was "Uncompressed." -->
+            <compressionScheme>Group 4</compressionScheme>
+        </Compression>
+        <Fixity>
+            <messageDigestAlgorithm>MD5</messageDigestAlgorithm>
+            <messageDigest>8c5c9346d507dfba333a19f6f116db30</messageDigest>
+            <messageDigestOriginator>jhove</messageDigestOriginator>
+            <!-- Not necessary, but... -->
+        </Fixity>
+        <Fixity>
+            <messageDigestAlgorithm>SHA-1</messageDigestAlgorithm>
+            <messageDigest>b9387b358432691e87c798cdb1f0a6aa7c1689c3</messageDigest>
+            <messageDigestOriginator>jhove</messageDigestOriginator>
+        </Fixity>
+    </BasicDigitalObjectInformation>
+    <BasicImageInformation>
+        <BasicImageCharacteristics>
+            <imageWidth>2295</imageWidth>
+            <imageHeight>3032</imageHeight>
+            <PhotometricInterpretation>
+                <colorSpace>WhiteIsZero</colorSpace>  <!-- IMageMagick, JHove, Metadata Extractor all agree -->
+                <!-- unknown, if even applicable -->
+                <!-- 
+                <ColorProfile>
+                    <IccProfile>
+                        <iccProfileName></iccProfileName>
+                        <iccProfileVersion></iccProfileVersion>
+                        <iccProfileURI></iccProfileURI>
+                    </IccProfile>
+                    <LocalProfile>
+                        <localProfileName></localProfileName>
+                        <localProfileURL></localProfileURL>
+                    </LocalProfile>
+                    <embeddedProfile></embeddedProfile>
+                </ColorProfile>
+                -->
+                <!-- 
+                <YCbCr>
+                    <YCbCrSubSampling>
+                        <yCbCrSubsampleHoriz></yCbCrSubsampleHoriz>
+                        <yCbCrSubsampleVert></yCbCrSubsampleVert>
+                    </YCbCrSubSampling>
+                    <yCbCrPositioning></yCbCrPositioning>
+                    <YCbCrCoefficients>
+                        <lumaRed>
+                            <numerator></numerator>
+                            <denominator></denominator>
+                        </lumaRed>
+                        <lumaGreen>
+                            <numerator></numerator>
+                            <denominator></denominator>
+                        </lumaGreen>
+                        <lumaBlue>
+                            <numerator></numerator>
+                            <denominator></denominator>
+                        </lumaBlue>
+                    </YCbCrCoefficients>
+                </YCbCr>
+                -->
+                <!--
+                <ReferenceBlackWhite>
+                    <Component>
+                        <componentPhotometricInterpretation></componentPhotometricInterpretation>
+                        <footroom>
+                            <numerator></numerator>
+                            <denominator></denominator>
+                        </footroom>
+                        <headroom>
+                            <numerator></numerator>
+                            <denominator></denominator>
+                        </headroom>
+                    </Component>
+                </ReferenceBlackWhite>
+                -->
+            </PhotometricInterpretation>
+        </BasicImageCharacteristics>
+    </BasicImageInformation>
+    <ImageCaptureMetadata>
+        <SourceInformation>
+            <sourceType>music score</sourceType>
+            <SourceID>
+                <sourceIDType>URI</sourceIDType>
+                <sourceIDValue>http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.100010802/</sourceIDValue>
+            </SourceID>
+            <SourceSize>
+                <SourceXDimension>
+                    <sourceXDimensionValue>8.5</sourceXDimensionValue>
+                    <sourceXDimensionUnit>in.</sourceXDimensionUnit>
+                </SourceXDimension>
+                <SourceYDimension>
+                    <sourceYDimensionValue>11</sourceYDimensionValue>
+                    <sourceYDimensionUnit>in.</sourceYDimensionUnit>
+                </SourceYDimension>
+            </SourceSize>
+        </SourceInformation>
+        <GeneralCaptureInformation>
+            <imageProducer>Library of Congress</imageProducer>
+        </GeneralCaptureInformation>
+        <ScannerCapture>
+            <ScanningSystemSoftware>
+                <scanningSoftwareName>ImageMagick 5.5.6 04/01/03 Q16 http://www.imagemagick.org</scanningSoftwareName>
+            </ScanningSystemSoftware>
+        </ScannerCapture>
+        <!-- the below is invalid.  Don't understand.  Documentation suggests it should be correct. -->
+        <!-- <orientation>1</orientation> -->
+    </ImageCaptureMetadata>
+    <ImageAssessmentMetadata>
+        <SpatialMetrics>
+               <!-- the below is invalid.  Don't understand.  Documentation suggests it should be correct. -->
+               <!-- <samplingFrequencyUnit>2</samplingFrequencyUnit> -->
+            <!-- Documentation suggests result goes here, not the numerator and denominator -->
+            <xSamplingFrequency>
+                <numerator>8</numerator>  <!-- Integer type.  But the physical page is 8.5 inches.  Integer isn't going to work -->
+                <denominator>2295</denominator>
+            </xSamplingFrequency>
+            <ySamplingFrequency>
+                <numerator>11</numerator>
+                <denominator>3032</denominator>
+            </ySamplingFrequency>
+        </SpatialMetrics>
+        <ImageColorEncoding>
+            <BitsPerSample>
+                <bitsPerSampleValue>1</bitsPerSampleValue>
+                <bitsPerSampleUnit>integer</bitsPerSampleUnit>
+            </BitsPerSample>
+            <samplesPerPixel>1</samplesPerPixel>
+        </ImageColorEncoding>
+    </ImageAssessmentMetadata>
+    <ChangeHistory>
+        <ImageProcessing>
+            <processingAgency>Library of Congress</processingAgency>
+            <ProcessingSoftware>
+                <processingSoftwareName>ImageMagick http://www.imagemagick.org</processingSoftwareName>
+                <processingSoftwareVersion>5.5.6 04/01/03 Q16</processingSoftwareVersion>
+            </ProcessingSoftware>
+            <processingActions>TIFF creation</processingActions>
+        </ImageProcessing>
+    </ChangeHistory>
+</mix>
